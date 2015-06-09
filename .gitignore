@@ -12,4 +12,6 @@
 *.out
 *.slo
 *.so
-build/
+bin/
+build*/
+lib/
